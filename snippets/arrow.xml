@@ -26,7 +26,6 @@
   <project path="bionic" name="android_bionic" groups="pdk" remote="arrow" />
 
   <!-- device repos -->
-  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="arrow" />
   <project path="device/qcom/sepolicy_vndr" name="android_device_qcom_sepolicy_vndr" remote="arrow" />
 
   <!-- external repos -->
